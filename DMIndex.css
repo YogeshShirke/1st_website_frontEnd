@@ -1,0 +1,107 @@
+.body{
+    background-color: #d7d6d6;
+}
+
+.mar{
+    background-color: aqua;
+    font-size: 20px;
+    height: 30px;
+}
+.navbar{
+    background-color: #adf9f9;
+    width: 100%;
+    height: 100px;
+    
+}
+.anuyam{
+    padding-left: 60px;
+}
+.span{
+    color: rgb(19, 172, 2);
+}
+.nav-btn{
+    background-color: #029f9f;
+    width: 40px;
+    height: 40px;
+    margin-right: 100px;
+    
+}
+.drop-item{
+    text-decoration: none;
+}
+.dropdown{
+    margin-right: 25px;
+}
+.attension{
+    color: red;
+    padding-left: 160px;
+}
+.img{
+    height: 400px;
+}
+.img2{
+    width: 550px;
+      height: 700px;
+      margin-right: 20px;
+      margin-top: 190px;
+}
+.container{
+   display: flex;
+   align-items: center;
+    
+}
+.container2{
+    display: inline-flex;
+    padding-top: 160px;
+}
+.box1{
+    background-color: white;
+    border: 2px;
+    margin-top: 290px;
+    margin-bottom: 50px;
+    width: 60%;
+    height: 390px;
+    padding: 40px;
+    box-shadow: 0 0 200px #4b4848;
+
+}
+.about{
+    color: rgb(94, 152, 7);
+    letter-spacing: 7px;
+    font-size: 23px;  
+}
+.who{
+    padding: 120px;
+    font-weight: 500;
+
+}
+.who_p{
+    color: #5a5252;
+    font-style: italic;
+}
+.img3{
+    padding-left: 190px;
+    padding-bottom: 90px;
+    width: 900px;
+    height: 600px;
+}
+.login{
+    margin-left: 30px;
+    border: 2px rgb(46, 44, 44);
+    height: 350px;
+    padding: 30px;
+    font-weight: 500;
+    background-color: #ddfbfb;
+    box-shadow: 0 0 90px rgb(137, 135, 222);
+
+}
+.pre{
+    font-weight: 500;
+}
+.log-btn{
+    background-color: #93cfcf;
+    
+
+}
+
+
